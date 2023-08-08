@@ -11,4 +11,8 @@ After all parameters have been chosen then the password generator will make a pa
 The JavaScript file has been pseudocoded and commented through my thought process 
 
 The diployed URL of the challenge:
+ https://ebox26.github.io/Password-Generator/
+
+
+Photo of live deployed website:
 
