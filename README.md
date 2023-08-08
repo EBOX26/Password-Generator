@@ -16,3 +16,4 @@ The diployed URL of the challenge:
 
 Photo of live deployed website:
 
+![image](https://github.com/EBOX26/Password-Generator/assets/139289311/d252e392-9853-4c88-9c00-9e38d1a509f0)
