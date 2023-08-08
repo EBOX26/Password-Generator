@@ -8,13 +8,6 @@ var upper = ['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q'
 var lower = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','v','w','x','y','z'];
 
 
-// variables for user feedback
-var userLength = '';
-var userNumber;
-var userSpecial;
-var userUpper;
-var userLower;
-
 function generatePassword() {
   //ignore button clicked
   console.log('Button clicked!');
